@@ -2,4 +2,3 @@
 
 
 
-                                                                    UI Clone - Pinterest (Homepage)
